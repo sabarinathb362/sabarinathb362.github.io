@@ -1,24 +1,24 @@
 # Sabarinath B - Personal Portfolio
 
-A clean, minimal, and responsive personal portfolio website to showcase my projects, experience, research, and skills. :)
+### Project Overview
+A clean, minimal, and responsive personal portfolio website designed to present my academic achievements, software projects, and published research. This acts as both a digital resume and a showcase of my technical skills in web development and data science. :)
 
-### Live Demo
-[sabarinathb362.github.io](https://sabarinathb362.github.io)  
+### Setup Instructions
+Setting up this project is simple as it requires no external frameworks.
+1. Download the ZIP or clone this repository to your local computer using Git:
+   ```bash
+   git clone https://github.com/sabarinathb362/sabarinathb362.github.io.git
+   ```
+2. Ensure all the source code files (`index.html`, `style.css`, `profile.png`, and `sabarinath_b_resume.pdf`) remain together in exactly the same root folder.
 
+### How to Run the Project
+* **Method 1 (Locally):** Simply double-click the `index.html` file to open it in any web browser. The website will run instantly!
+* **Method 2 (Live Server):** If you use an IDE like VS Code, you can right-click the file and use a basic "Live Server" extension.
+* **Method 3 (Live Demo):** The website is hosted via GitHub Pages and can be viewed live at [https://sabarinathb362.github.io](https://sabarinathb362.github.io).
 
-### Features
-* **Minimalist Design**: Built with a dark theme, readable typography, and panels to keep the focus on the content.
-* **Fully Responsive**: Works well on mobile phones, tablets, and desktop computers.
-* **Projects & Research**: Specific sections highlighting my academic work, published papers, and personal projects.
-
-### Running Locally
-To view the portfolio on your own computer, simply download the folder and open `index.html` to open it in any web browser. Its that simple :)
-
-### Contact
-* Email: sabarinathb362@gmail.com
+### Contact & Links
 * LinkedIn: [Sabarinath B](https://www.linkedin.com/in/sabarinath-b-277a27197/)
-* GitHub: [sabarinathb362](https://github.com/sabarinathb362)
-* StackOverflow: [sabarinathb362](https://stackoverflow.com/users/18058330/sabarinathb362)
+* GitHub Repository URL: [https://github.com/sabarinathb362](https://github.com/sabarinathb362)
 
 ---
 *Designed & Built by Sabarinath B*
