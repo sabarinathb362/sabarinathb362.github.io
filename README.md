@@ -18,7 +18,7 @@ Setting up this project is simple as it requires no external frameworks.
 
 ### Contact & Links
 * LinkedIn: [Sabarinath B](https://www.linkedin.com/in/sabarinath-b-277a27197/)
-* GitHub Repository URL: [[https://github.com/sabarinathb362](https://github.com/sabarinathb362/sabarinathb362.github.io)
+* GitHub Repository URL: [[https://github.com/sabarinathb362](https://github.com/sabarinathb362/sabarinathb362.github.io)]
 
 ---
 *Designed & Built by Sabarinath B*
