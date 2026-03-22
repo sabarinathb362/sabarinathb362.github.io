@@ -277,6 +277,28 @@ Hero Section
     gap: 1rem;
 }
 
+.hero-image {
+    flex-shrink: 0;
+    margin-left: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-image img {
+    width: 320px;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--clr-primary);
+    box-shadow: 0 0 20px rgba(0, 229, 255, 0.2);
+    transition: transform var(--transition-base);
+}
+
+.hero-image img:hover {
+    transform: scale(1.05);
+}
+
 /* 
 ===============================================
 About Section
@@ -674,9 +696,16 @@ Responsive Media Queries
     }
 
     .hero {
+        flex-direction: column-reverse;
         align-items: flex-start;
         padding-top: 140px;
         min-height: auto;
         padding-bottom: 80px;
+        gap: 3rem;
+    }
+
+    .hero-image {
+        margin-left: 0;
+        align-self: center;
     }
 }
