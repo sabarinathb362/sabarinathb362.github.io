@@ -4,7 +4,7 @@ A clean, minimal, and responsive personal portfolio website to showcase my proje
 
 ### Live Demo
 [sabarinathb362.github.io](https://sabarinathb362.github.io)  
-*(Update this link once your site is hosted!)*
+
 
 ### Features
 * **Minimalist Design**: Built with a dark theme, readable typography, and simple frosted panels to keep the focus on the content.
