@@ -1,6 +1,6 @@
 # Sabarinath B - Personal Portfolio
 
-A clean, minimal, and responsive personal portfolio website to showcase my projects, experience, research, and skills. :-)
+A clean, minimal, and responsive personal portfolio website to showcase my projects, experience, research, and skills. :)
 
 ### Live Demo
 [sabarinathb362.github.io](https://sabarinathb362.github.io)  
@@ -12,7 +12,7 @@ A clean, minimal, and responsive personal portfolio website to showcase my proje
 * **Projects & Research**: Specific sections highlighting my academic work, published papers, and personal projects.
 
 ### Running Locally
-To view the portfolio on your own computer, simply download the folder and double-click `index.html` to open it in any web browser. That's it!
+To view the portfolio on your own computer, simply download the folder and open `index.html` to open it in any web browser. Its that simple :)
 
 ### Contact
 * Email: sabarinathb362@gmail.com
