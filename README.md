@@ -7,7 +7,7 @@ A clean, minimal, and responsive personal portfolio website to showcase my proje
 
 
 ### Features
-* **Minimalist Design**: Built with a dark theme, readable typography, and simple frosted panels to keep the focus on the content.
+* **Minimalist Design**: Built with a dark theme, readable typography, and panels to keep the focus on the content.
 * **Fully Responsive**: Works well on mobile phones, tablets, and desktop computers.
 * **Projects & Research**: Specific sections highlighting my academic work, published papers, and personal projects.
 
